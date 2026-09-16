@@ -241,4 +241,4 @@ This repository serves as the official landing page for Pro Cycling Manager. The
 **Get the most recent version of Pro Cycling Manager today!**
 
 ---
-**Last updated:** 2026-09-16 07:57:57 UTC
+**Last updated:** 2026-09-16 13:02:25 UTC
